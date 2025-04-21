@@ -56,5 +56,3 @@
 **token_sort_ratio:** token_sort_ratio from fuzzywuzzy
 
 **token_set_ratio:** token_set_ratio from fuzzywuzzy
-
-# Sauraavvv-Duplicate-Question-pair
